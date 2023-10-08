@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container
+{
+    position: fixed;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    box-sizing: content-box;
+}
+ .container .input1{
+    width: 95%;
+    border-radius: 5px;
+    border: solid 2px rgba(36, 167, 200, 0.537);
+    padding: 5px;
+    outline: none;
+    margin-bottom:5px ;
+}
+.input1:hover{
+    border: 2px solid rgb(7, 136, 55);
+    background-color: rgb(132, 218, 163);
+}
+.note{
+    background-color: rgb(105, 199, 246);
+    border-radius: 5px;
+    border: 2px solid rgb(7, 100, 136);
+}
+h4
+{
+    color: rgb(9, 101, 150);
+}
+td{
+    padding-top: 5px;
+    padding-bottom:3px ;
+    background-color: rgb(249, 249, 249);
+    width: 80%;
+    border-radius: 5px;
+}
+.input2
+{
+    border: none;
+    width: 97%;
+    background-color:transparent;
+    padding: 5px;
+    background-color: rgb(198, 238, 255);
+    outline: none;
+}
+
+
+

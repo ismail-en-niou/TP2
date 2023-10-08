@@ -1,0 +1,64 @@
+.container
+{
+    width: 650px;
+    
+}
+.title
+{
+   text-align: center;
+    color: blue;
+}
+table
+{
+    border: 1px solid ;
+    width: 90%;
+}
+td
+{
+    border-right:1px solid ;
+}
+.td2
+{
+    padding-right: 300px;
+    padding-left: 20px;
+}
+span
+{
+    font-weight: 800;
+}
+.cs1
+{
+    color: red;
+}
+.cs2
+{
+    color: green;
+}
+.cs3
+{
+    color:blue;
+}
+thead{
+    background-color: rgb(154, 150, 150);
+    
+}
+th{
+    padding: 10px;
+}
+hr
+{
+    width: 650px;
+    height: 2px;
+    background-color: #000000;
+}
+.dev
+{
+    list-style-type: circle;
+}
+.pro , .com
+{
+    list-style-type:square;
+}
+.footer{
+    text-align: center;
+}

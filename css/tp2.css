@@ -1,0 +1,23 @@
+.container
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.box
+{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border: 2px solid black;
+}
+input{
+    margin: 15px ;
+    padding: 5px ;
+    background-color: aqua;
+    border: none;
+    outline: none;
+}
+input:hover {
+    border: 1px solid black;
+    background-color: beige;
+}
